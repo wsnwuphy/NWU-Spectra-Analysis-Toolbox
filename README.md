@@ -5,5 +5,5 @@ Please Download the NWUSA-Spectra-Toolbox.rar package, and unzip it for further 
 The users could refer to the GUI manual Final for the application operations.
 
 
-Software Installation Guide
+Software Installation Guide:
 NWU Spectral Analysis (NWUSA) Toolbox is developed based on MATLAB R2018b (Mathworks Inc., Natick, MA, USA) environment for the Windows operating system (Microsoft, Redmond, WA). In order to ensure the normal use of the NWUSA toolbox, please download the MATLAB Runtime (Version# R2018b (9.5)). The download link is: https://www.mathworks.com/products/compiler/matlab- runtime.html.
